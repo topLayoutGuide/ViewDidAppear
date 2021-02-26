@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/TimOliver/TimOliver/raw/main/header.png" width="410" alt="iComics on an iPhone XS Max" align="right" />
+<img src="https://github.com/topLayoutGuide/topLayoutGuide/raw/main/header.png" width="410" alt="iComics on an iPhone XS Max" align="right" />
 </p>
 
 # G'day! I'm Benjamin. 😃
