@@ -22,6 +22,7 @@
 * 🇦🇺 From [Melbourne, AU](https://www.australia.com/en/places/melbourne-and-surrounds/guide-to-melbourne.html), but presently living in [Tokyo, JP](https://www.gotokyo.org/en/index.html).
 * 🎮 Loves playing [Cities: Skylines](https://www.paradoxplaza.com/cities-skylines/CSCS00GSK-MASTER.html) and other various console based games.
 * 🎤 I love karaoke.
-* ☕️ I run on coffee.
+* ☕️ I run on iced coffee.
 * 🗣 I speak English and 日本語
+* 💖 I fight for the customers using anything I build
 * 😁 Nice to meet you! よろしく〜
