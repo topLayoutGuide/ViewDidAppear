@@ -16,7 +16,7 @@
 </p>
 
 * 📱 Software engineer specializing in [iOS](https://www.apple.com/ios/) and [macOS](https://www.apple.com/macos/).
-* 🚗 Currently at [Mercari](https://github.com/kouzoh), previously at iflix & jtribe.
+* 🚗 Currently at [PayPay](https://paypay.ne.jp/), previously at mercari, iflix & jtribe.
 * 💿 Making a top secret app for iOS called...... oh well you'll need to wait...
 * 💻 Loves publishing [open source software on GitHub](https://github.com/toplayoutguide?tab=repositories).
 * 🇦🇺 From [Melbourne, AU](https://www.australia.com/en/places/melbourne-and-surrounds/guide-to-melbourne.html), but presently living in [Tokyo, JP](https://www.gotokyo.org/en/index.html).
@@ -24,5 +24,5 @@
 * 🎤 I love karaoke.
 * ☕️ I run on iced coffee.
 * 🗣 I speak English and 日本語
-* 💖 I fight for the customers using anything I build
+* 💖 I fight for the customers!
 * 😁 Nice to meet you! よろしく〜
