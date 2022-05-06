@@ -16,13 +16,12 @@
 </p>
 
 * 📱 Senior [iOS](https://www.apple.com/ios/) Software Engineer (Can also do [macOS](https://www.apple.com/macos/))
-* 🚗 Currently at [PayPay](https://paypay.ne.jp/), previously at Mercari, iflix & jtribe.
-* 💿 Making a top secret app for iOS called...... oh well you'll need to wait...
-* 💻 Loves publishing [open source software on GitHub](https://github.com/viewDidAppear?tab=repositories).
+* 💼 **Current:** iOS Software Engineer @ [PayPay](https://paypay.ne.jp/)<br/>🔙 **Prior:** Mercari, iflix & jtribe Apps.
+* 💿 I love to collect Vinyl records 🤩
+* 💻 I love publishing [open source software on GitHub](https://github.com/viewDidAppear?tab=repositories) when I can!
 * 🇦🇺 From [Melbourne, AU](https://www.australia.com/en/places/melbourne-and-surrounds/guide-to-melbourne.html), but presently living in [Tokyo, JP](https://www.gotokyo.org/en/index.html).
 * 🎮 I love playing [Cities: Skylines](https://www.paradoxplaza.com/cities-skylines/CSCS00GSK-MASTER.html) and other video games.
-* 🎤 I love karaoke.
-* ☕️ I run on iced coffee.
+* 🎤 カラオケがめっちゃ好きやん
 * 🗣 English and 日本語
 * 💖 I fight for the customers!
-* 😁 Nice to meet you! よろしく〜
+* 😁 Nice to meet you!
